@@ -1,0 +1,149 @@
+*File extension: PDF
+*File type: Portable Document Format
+The PDF file type is primarily associated with 'Acrobat' by Adobe Systems Incorporated. Adobe Acrobat is a family of computer programs developed by Adobe Systems, designed to view, create, manipulate and manage files in Adobe's Portable Document Format (PDF). Some software in the family are commercial, and some are free. Adobe Reader (formerly Acrobat Reader) is available as a no-charge download from Adobe's Web site, and allows the viewing and printing of PDF files. Acrobat and Reader are widely used as a way to present information with a fixed layout similar to a paper publication. The PDF format has become a standard for document transfer between computer architectures. A PDF file retains formatting for the file being transmitted. Free viewers are available at the Adobe website and other locations. Starting in 2007, PDF files sent as attachments started to show up as spam. When the PDF file is opened, the spammed ad is shown.
+
+*.pdf File Extension
+*Developer: Adobe Systems
+Description:-->
+You're here because you have a file that has a file extension ending in .pdf. Files with the file extension .pdf can only be launched by certain applications. It's possible that .pdf files are data files rather than documents or media, which means they're not meant to be viewed at all.
+PDF files are generally classified as data files, and these documents are commonly known as portable document format files. Developed by Adobe Systems, the PDF format was implemented in order to provide wider cross compatibility support for viewing and sharing content across widely used systems. The content of a .pdf document normally consists of text, visual elements like images, charts and tables, annotations, bibliographies, indices, footnotes and endnotes among others. Formatting attributes and page layout specifications can be integrated into the content of a PDF file by accessing the features of widely used PDF authoring and editing applications. The technology behind the PDF format allows the content of these PDF files, when viewed in a computer monitor, to look closely similar to its printed version. As of this writing, popular Web browsers have been implemented with support for viewing PDF documents through certain plugins, and the latest version of Google Chrome can be used to open and view the content of a .pdf file without installing any plugin.
+Launch a .pdf file, or any other file on your PC, by double-clicking it. If your file associations are set up correctly, the application that's meant to open your .pdf file will open it. It's possible you may need to download or purchase the correct application. It's also possible that you have the correct application on your PC, but .pdf files aren't yet associated with it. In this case, when you try to open a .pdf file, you can tell Windows which application is the correct one for that file. From then on, opening a  .pdf file will open the correct application. Click here to fix .pdf file association errors
+Be careful not to rename the extension on .pdf&nbspfiles, or any other files. This will not change the file type. Only special conversion software can change a file from one file type to another.
+A file extension is the set of three or four characters at the end of a filename; in this case, .pdf.&nbspFile extensions tell you what type of file it is, and tell Windows what programs can open it. Windows often associates a default program to each file extension, so that when you double-click the file, the program launches automatically. When that program is no longer on your PC, you can sometimes get an error when you try to open the associated file.
+
+File Extension PDF
+File extension PDF is most commonly associated with Adobe Portable Document Format
+Files of this type are used for cross-platform document exchange
+They can be viewed on PC, Mac, Linux computers as well as many other electronic devices
+PDF files are also commonly used in the publishing and advertising industry.
+
+*File extension: TXT
+*File type: Text File
+The TXT file type is primarily associated with 'Text File'. Open in Notepad, WordPad, or many other programs designated as text editors. A true text file will be pure ASCII text with no formatting. The Macintosh file type is: TEXT. The following initial hex bytes designate the specific file type: BOCU-1 Encoded = FBEE28 SCSU Encoded = 0EFEFF UTF-EBCDIC Encoded = DD736673 UTF-32 (LE) Encoded = FFFE0000 UTF-32 (BE) Encoded = 0000FEFF UTF-16 (LE) Encoded = FFFE UTF-16 (BE) Encoded = FEFF UTF-8 Encoded = EFBBBF UTF-7 Encoded = 2B2F76
+
+*.txt File Extension
+*Developer: N/A
+Description:-->
+You're here because you have a file that has a file extension ending in .txt. Files with the file extension .txt can only be launched by certain applications. It's possible that .txt files are data files rather than documents or media, which means they're not meant to be viewed at all.
+Plain text documents saved in the TXT format can be created, opened and edited using a wide variety of text editing and word processing programs developed for Linux systems, Microsoft Windows-based computers and Mac platforms. The content of these .txt files is unformatted ASCII text that can be saved as .txt documents in small file sizes. Almost all smartphones are bundled with applications that offer compatibility support for accessing the content of these TXT files, while the Kindle device from Amazon can also be used to open and view the content stored in a TXT document. Popular Microsoft Windows text editing applications like Microsoft Notepad can be used to create TXT files, and this program can even be used to save these unformatted text documents in HTML and JS formats among others. The Apple TextEdit application also has support for opening, viewing and modifying the content of a text document in the TXT format, and this program can be used to also create text documents and save it in a format with the .txt extension. There are many applications developed for various Linux distributions which can create, open and view the text content of these .txt files, and with this wide cross compatibility support, users of different platforms can share their TXT documents most likely without encountering problems or issues.
+Launch a .txt file, or any other file on your PC, by double-clicking it. If your file associations are set up correctly, the application that's meant to open your .txt file will open it. It's possible you may need to download or purchase the correct application. It's also possible that you have the correct application on your PC, but .txt files aren't yet associated with it. In this case, when you try to open a .txt file, you can tell Windows which application is the correct one for that file. From then on, opening a  .txt file will open the correct application. Click here to fix .txt file association errors
+Be careful not to rename the extension on .txt&nbspfiles, or any other files. This will not change the file type. Only special conversion software can change a file from one file type to another.
+A file extension is the set of three or four characters at the end of a filename; in this case, .txt.&nbspFile extensions tell you what type of file it is, and tell Windows what programs can open it. Windows often associates a default program to each file extension, so that when you double-click the file, the program launches automatically. When that program is no longer on your PC, you can sometimes get an error when you try to open the associated file.
+
+File Extension TXT
+File extension TXT is used by operating systems to recognize files with content of type TXT
+Here is some information which will get you started.
+
+*File extension: BRD
+*File type: Allegro
+The BRD file type is primarily associated with 'Allegro' by Cadence Design Systems.
+
+*.brd File Extension
+*Developer: CadSoft
+Description:-->
+You're here because you have a file that has a file extension ending in .brd. Files with the file extension .brd can only be launched by certain applications. It's possible that .brd files are data files rather than documents or media, which means they're not meant to be viewed at all.
+Files saved in a format with the BRD extension are called EAGLE circuit board files, also categorized as data files, and the EAGLE circuit board design software uses these BRD files. Software that can be used to create circuit board designs are classified as CAD software, and the EAGLE application is an example of these programs. The name "EAGLE" stands for Easily Applicable Graphical Layout Editor, and this program can be installed in a Microsoft Windows system. A version of this software can also be installed in Linux platforms to integrate support for these BRD files. Mac users can also start using the EAGLE program and opening these BRD files by installing a version also developed by CadSoft, creators of EAGLE, for Mac environments. Schematic development features and PCB design functionalities are integrated into the EAGLE software from CadSoft, which can be used by engineers and technicians among other professionals who deal with circuit board technology. The "Layout Editor" implemented into the EAGLE software is used to create and save these BRD files in the .brd format.
+Launch a .brd file, or any other file on your PC, by double-clicking it. If your file associations are set up correctly, the application that's meant to open your .brd file will open it. It's possible you may need to download or purchase the correct application. It's also possible that you have the correct application on your PC, but .brd files aren't yet associated with it. In this case, when you try to open a .brd file, you can tell Windows which application is the correct one for that file. From then on, opening a  .brd file will open the correct application. Click here to fix .brd file association errors
+Be careful not to rename the extension on .brd&nbspfiles, or any other files. This will not change the file type. Only special conversion software can change a file from one file type to another.
+A file extension is the set of three or four characters at the end of a filename; in this case, .brd.&nbspFile extensions tell you what type of file it is, and tell Windows what programs can open it. Windows often associates a default program to each file extension, so that when you double-click the file, the program launches automatically. When that program is no longer on your PC, you can sometimes get an error when you try to open the associated file.
+
+File Extension BRD
+File extension BRD is used by operating systems to recognize files with content of type BRD
+Here is some information which will get you started.
+
+*File extension: PNG
+*File type: Portable (Public) Network Graphic
+The PNG file type is primarily associated with 'Portable (Public) Network Graphic'. Proposed GIF replacement. The Macintosh type is: PNGf
+
+*.png File Extension
+*Developer: N/A
+Description:-->
+You're here because you have a file that has a file extension ending in .png. Files with the file extension .png can only be launched by certain applications. It's possible that .png files are data files rather than documents or media, which means they're not meant to be viewed at all.
+PNG files are compressed raster image files usually implemented for visual elements found in a website among other Web graphics. The image content of these .png files consists of index colors integrated by bitmap images, and the lossless digital image compression and encoding specifications that are implemented into these .png files are similar to the compression standards integrated into GIF files. Also known as portable network graphics, the PNG format was developed to lift the limitations of GIF images, in terms of color support and patent licensing. The transparency channel of these PNG files have been improved to implement 8-bit support. CMYK support is not available in these PNG files.
+Launch a .png file, or any other file on your PC, by double-clicking it. If your file associations are set up correctly, the application that's meant to open your .png file will open it. It's possible you may need to download or purchase the correct application. It's also possible that you have the correct application on your PC, but .png files aren't yet associated with it. In this case, when you try to open a .png file, you can tell Windows which application is the correct one for that file. From then on, opening a  .png file will open the correct application. Click here to fix .png file association errors
+Be careful not to rename the extension on .png&nbspfiles, or any other files. This will not change the file type. Only special conversion software can change a file from one file type to another.
+A file extension is the set of three or four characters at the end of a filename; in this case, .png.&nbspFile extensions tell you what type of file it is, and tell Windows what programs can open it. Windows often associates a default program to each file extension, so that when you double-click the file, the program launches automatically. When that program is no longer on your PC, you can sometimes get an error when you try to open the associated file.
+
+File Extension PNG
+File extension PNG is a file format used to store images
+Images in PNG format are stored without quality loss
+PNG is the most popular way to store lossless files on the internet
+It was specifically designed to enable image transfer on the internet.
+
+*File extension: JPG
+*File type: JPEG/JIFF Image
+The JPG file type is primarily associated with 'JPEG/JIFF Image'. A lossy bitmap image format used by digital cameras and to display photographs on the Web (along with many other like uses). If you plan to edit a JPEG file save it first as a BMP or other lossless bitmap format. Edit that and then use SaveAs to resave as a JPEG file. If you edit and reedit a JPEG file you will suffer a compression loss on each read/save operation. The Macintosh type is: JPEG. In early 2008 infected files with the JPG extension started to spread on Symbian OS devices (e.g., Nokia 6600, 6630, 6680 and other phones). Since the Symbian OS recognizes file formats and does not depend on the extension these renamed SIS installation files looked like data files. If a mobile device asks about an install when attempting to open an JPG or other data file then beware as it's likely malware trying to infect the device.
+
+*.jpg File Extension
+*Developer: Joint Photographic Experts Group
+Description:-->
+You're here because you have a file that has a file extension ending in .jpg. Files with the file extension .jpg can only be launched by certain applications. It's possible that .jpg files are data files rather than documents or media, which means they're not meant to be viewed at all.
+JPG files are classified as raster image files, and the .jpg file format is implemented for storing digital photos and images with support for 24-bit color. This makes the JPG file format a default standard for digital camera manufacturers and professional photographers. Because of the compression specifications integrated into the image content of these JPG files, its size is significantly reduced for optimal portability. This means users can conveniently share their digital photos and favorite images by storing it in the .jpg format and transmitting it via the Internet or through email. Because of its small size, large collections of these JPG images can be stored in external data storage devices and optical media. Many third party applications are integrated with a set of features for editing these JPG images.
+Launch a .jpg file, or any other file on your PC, by double-clicking it. If your file associations are set up correctly, the application that's meant to open your .jpg file will open it. It's possible you may need to download or purchase the correct application. It's also possible that you have the correct application on your PC, but .jpg files aren't yet associated with it. In this case, when you try to open a .jpg file, you can tell Windows which application is the correct one for that file. From then on, opening a  .jpg file will open the correct application. Click here to fix .jpg file association errors
+Be careful not to rename the extension on .jpg&nbspfiles, or any other files. This will not change the file type. Only special conversion software can change a file from one file type to another.
+A file extension is the set of three or four characters at the end of a filename; in this case, .jpg.&nbspFile extensions tell you what type of file it is, and tell Windows what programs can open it. Windows often associates a default program to each file extension, so that when you double-click the file, the program launches automatically. When that program is no longer on your PC, you can sometimes get an error when you try to open the associated file.
+
+File Extension JPG
+File extension JPG is used by Joint Photographic Experts Group images files
+JPG (aka JPEG) files contain bitmap images that are compressed using lossy format
+The standard was originally established in 1994
+JPEG compression utilizes discrete cosine transform, run-length encoding and Huffman coding.
+
+*File extension: NET
+*File type: Data File
+The NET file type is primarily associated with 'EPANET' by United States Environmental Protection Agency. EPANET is public domain software developed by USEPA. EPANET can perform steady-state and extended period simulations for networks of junctions, pipes, pumps, valves, and storage structures, calculating flow of water, pressures, tank elevations, concentration of chemical species, water age, and source tracing.
+
+*.net File Extension
+*Developer: netViz
+Description:-->
+You're here because you have a file that has a file extension ending in .net. Files with the file extension .net can only be launched by certain applications. It's possible that .net files are data files rather than documents or media, which means they're not meant to be viewed at all.
+The NET file extension is also known as netViz Project File which was developed by netViz. The NET file format is associated with the netViz Project created by netViz Enterprise software. It is a set of programs that enable data visualization. It is often used for flowcharting and diagrams of business models and IT infrastructures. It can be published and viewed on the Web using netViz webView. Projects included with netViz software are usually called "Global Network.net" or "Global.net." In netViz 5.0, user has the option of embedding backgrounds. When backgrounds are embedded, project files can be moved, copied or e-mailed with intact backgrounds. It is also recommended that the project files are stored on the server, so that multiple users can access the information. The company netViz was acquired by CA as part of its acquisition of Concord Communications Inc. in 2005. Files in NET format can be opened with netViz Enterprise software in Microsoft Windows platforms.
+Launch a .net file, or any other file on your PC, by double-clicking it. If your file associations are set up correctly, the application that's meant to open your .net file will open it. It's possible you may need to download or purchase the correct application. It's also possible that you have the correct application on your PC, but .net files aren't yet associated with it. In this case, when you try to open a .net file, you can tell Windows which application is the correct one for that file. From then on, opening a  .net file will open the correct application. Click here to fix .net file association errors
+Be careful not to rename the extension on .net&nbspfiles, or any other files. This will not change the file type. Only special conversion software can change a file from one file type to another.
+A file extension is the set of three or four characters at the end of a filename; in this case, .net.&nbspFile extensions tell you what type of file it is, and tell Windows what programs can open it. Windows often associates a default program to each file extension, so that when you double-click the file, the program launches automatically. When that program is no longer on your PC, you can sometimes get an error when you try to open the associated file.
+
+File Extension NET
+File extension NET is used by operating systems to recognize files with content of type NET
+Here is some information which will get you started.
+
+*File extension: JAR
+*File type: Applet
+The JAR file type is primarily associated with 'Java' by Sun. Sometimes these applets are used as applications on mobile devices like phones.
+
+*.jar File Extension
+*Developer: Oracle
+Description:-->
+You're here because you have a file that has a file extension ending in .jar. Files with the file extension .jar can only be launched by certain applications. It's possible that .jar files are data files rather than documents or media, which means they're not meant to be viewed at all.
+A Java Archive file is also called a JAR file, and these Java Archive files are integrated with compilation specifications proprietary to Oracle. These Java Archive files are also implemented with encoding specifications also proprietary to Oracle for the JAR format. JRE (Java Runtime Environment) uses the data stored in these JAR files as reference data or an application library of a program developed using Java and intended to run in platforms where the Java Runtime Environment is enabled. The content of a JAR file may include framework code developed to initialize and run Java programs. These JAR files can also be created as standalone applications for mobile phones, tablet computers and desktop or laptop computers installed with the Java Runtime Environment. Program resources may also be included in the content of a JAR file, and a manifest file can optionally be entered in a JAR file. Some Web browsers are integrated with support for the Java Runtime Environment and can thereby be used to access the data stored in these JAR files. The Java Virtual Machine is also known as the Java Runtime Environment. Sun Microsystems was the original developer of the JAR format before it was acquired by Oracle.
+Launch a .jar file, or any other file on your PC, by double-clicking it. If your file associations are set up correctly, the application that's meant to open your .jar file will open it. It's possible you may need to download or purchase the correct application. It's also possible that you have the correct application on your PC, but .jar files aren't yet associated with it. In this case, when you try to open a .jar file, you can tell Windows which application is the correct one for that file. From then on, opening a  .jar file will open the correct application. Click here to fix .jar file association errors
+Be careful not to rename the extension on .jar&nbspfiles, or any other files. This will not change the file type. Only special conversion software can change a file from one file type to another.
+A file extension is the set of three or four characters at the end of a filename; in this case, .jar.&nbspFile extensions tell you what type of file it is, and tell Windows what programs can open it. Windows often associates a default program to each file extension, so that when you double-click the file, the program launches automatically. When that program is no longer on your PC, you can sometimes get an error when you try to open the associated file.
+
+File Extension JAR
+File extension JAR is most commonly associated with a Java Archive, which is often used to package and distribute Java classes and metadata in development environments
+JAR files may also be found to contain themes and add-ons for Mozilla's FireFox web browser or Thunderbird E-Mail client.
+
+*File extension: GZIP
+*File type: Gzip Compressed Archive
+The GZIP file type is primarily associated with 'Gzip Compressed Archive'. (more usually seen as .GZ) [Note: GZIP used on a single file will often produce a compressed file with the last letter of the original extension replaced with the letter Z; e.g., gzip 1d66.pdb will likely produce 1d66.pdz.]
+
+*.gzip File Extension
+*Developer: N/A
+Description:-->
+You're here because you have a file that has a file extension ending in .gzip. Files with the file extension .gzip can only be launched by certain applications. It's possible that .gzip files are data files rather than documents or media, which means they're not meant to be viewed at all.
+A GNU zipped file is integrated with compression specifications and standards implemented by the GNU ZIP algorithm, and these GNU zipped files are stored in the GZIP format and are affixed with the .gzip extension. These .gzip files may contain one or more files selected by the user for compression using the GNU ZIP algorithm. The resulting GZIP file will be in a smaller size than the actual size of the uncompressed versions of the files stored in the GZIP file. The GNU ZIP algorithm is an open source compression technology, and support for these GZIP compression standards and specifications are mostly integrated in Unix-based systems. There are many Microsoft Windows file compression and decompression tools with support for these GZIP files, which means these programs can be used to create or decompress and access the content stored in these GZIP files. There are also file compression and decompression programs developed for Mac platforms that can be used to decompress these GZIP files. The Smith Micro StuffIt Deluxe 2011 is integrated with support for compressing files in the GZIP format as well as for decompressing GZIP files.
+Launch a .gzip file, or any other file on your PC, by double-clicking it. If your file associations are set up correctly, the application that's meant to open your .gzip file will open it. It's possible you may need to download or purchase the correct application. It's also possible that you have the correct application on your PC, but .gzip files aren't yet associated with it. In this case, when you try to open a .gzip file, you can tell Windows which application is the correct one for that file. From then on, opening a  .gzip file will open the correct application. Click here to fix .gzip file association errors
+Be careful not to rename the extension on .gzip&nbspfiles, or any other files. This will not change the file type. Only special conversion software can change a file from one file type to another.
+A file extension is the set of three or four characters at the end of a filename; in this case, .gzip.&nbspFile extensions tell you what type of file it is, and tell Windows what programs can open it. Windows often associates a default program to each file extension, so that when you double-click the file, the program launches automatically. When that program is no longer on your PC, you can sometimes get an error when you try to open the associated file.
+
+File Extension GZIP
+File extension GZIP is used by operating systems to recognize files with content of type GZIP
+Here is some information which will get you started.
+
+*File extension: GIF
+*File type: Graphic Interchange Format
+The GIF file type is primarily associated with 'Graphic Interchange Format'. Graphic files in .GIF format can be manipulated by a large number of programs. Some programs, e.g., Fractint, us the GIF header to store program information so that when the file is opened the program sets itself to the state it was in when the file was last edited. The Macintosh type is: GIFf
+File Extension GIF
+File extension GIF is used by operating systems to recognize files with content of type GIF
+Here is some information which will get you started.
+
